@@ -1,2 +1,3 @@
-Git is a distributed version control system
-Git is free software distributed uunder the GPL.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+This time I learn use insert.
